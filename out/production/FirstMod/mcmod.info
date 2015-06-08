@@ -1,0 +1,21 @@
+[
+{
+  "modid": "MiscMod",
+  "name": "Miscellaneous Mod",
+  "description": "First Minecraft Mod... Lets hope it works.",
+  "version": "1.0",
+  "mcversion": "1.8",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "Riphtix"
+  ],
+  "credits": "pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
